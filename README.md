@@ -1,1 +1,1 @@
-This is a live video streaming using socket programming and open cv python
+This is a live video streaming (without voice) using socket programming and open cv python 
